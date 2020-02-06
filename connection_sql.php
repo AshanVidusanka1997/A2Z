@@ -9,7 +9,7 @@ $servername= 'localhost';
 $username = 'root';
 $password = '';
 $port = 10060;
-$dbname = 'ohlums';
+$dbname = 'a2z';
 
 
 $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
